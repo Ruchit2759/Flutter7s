@@ -98,14 +98,14 @@ List<Flutterdevelopers> dataList = [
     userimagename: 'rsimage',
   ),
   Flutterdevelopers(
-   name: 'Sajib Adhikary',
-   title: 'Flutter And Web Dev',
-   twitterlink: 'ehttps://twitter.com/sajibAdhi',
-   instalink: 'www.instagram.com/sajibadhi',
-   githublink: 'https://github.com/sajibAdhi',
-   userimagename: 'saimage',
- ),
- Flutterdevelopers(
+    name: 'Sajib Adhikary',
+    title: 'Flutter And Web Dev',
+    twitterlink: 'ehttps://twitter.com/sajibAdhi',
+    instalink: 'www.instagram.com/sajibadhi',
+    githublink: 'https://github.com/sajibAdhi',
+    userimagename: 'saimage',
+  ),
+  Flutterdevelopers(
     name: 'Parth Panchal',
     title: 'Flutter & Python Dev',
     twitterlink: 'https://twitter.com/hitchhickerrr',
@@ -129,7 +129,7 @@ List<Flutterdevelopers> dataList = [
     twitterlink: 'https://twittwe.com/0x01-itsmurphy',
     userimagename: '0x01-itsmurphy',
   ),
-   Flutterdevelopers(
+  Flutterdevelopers(
     name: 'Chetan',
     title: 'Flutter DEV',
     twitterlink: 'https://twitter.com/theextrovert0',
@@ -137,5 +137,12 @@ List<Flutterdevelopers> dataList = [
     githublink: 'https://github.com/Palchetan07',
     userimagename: 'cpimage',
   ),
+  Flutterdevelopers(
+    name: 'Ruchit',
+    title: 'FlutterDeveloper',
+    twitterlink: 'https://twitter.com/ruchit',
+    instalink: 'www.instagram.com',
+    githublink: 'https://github.com/Ruchit2759',
+    userimagename: 'r2759',
+  ),
 ];
-
